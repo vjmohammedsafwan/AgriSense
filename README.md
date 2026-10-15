@@ -82,8 +82,7 @@ AgriSense/
 │   ├── dashboard_app.py            # Streamlit interactive web dashboard
 │   ├── dynamic_engine.py           # Universal ML training & inference pipeline
 │   ├── weather_service.py          # Real-time Open-Meteo REST API connector
-│   ├── PROJECT_DOCUMENTATION.md    # In-depth technical architecture documentation
-│   └── REVIEW_DEFENSE_GUIDE.md     # Presentation guide and cheat-sheet
+│   └── PROJECT_DOCUMENTATION.md    # In-depth technical architecture documentation
 ├── .gitignore                      # Git ignore rules
 └── README.md                       # Project overview and setup guide
 ```
